@@ -1,0 +1,13 @@
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\bin\Debug\netcoreapp3.1\PoolsandThreads.exe
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\bin\Debug\netcoreapp3.1\PoolsandThreads.deps.json
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\bin\Debug\netcoreapp3.1\PoolsandThreads.runtimeconfig.json
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\bin\Debug\netcoreapp3.1\PoolsandThreads.runtimeconfig.dev.json
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\bin\Debug\netcoreapp3.1\PoolsandThreads.dll
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\bin\Debug\netcoreapp3.1\PoolsandThreads.pdb
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\obj\Debug\netcoreapp3.1\PoolsandThreads.csprojAssemblyReference.cache
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\obj\Debug\netcoreapp3.1\PoolsandThreads.csproj.CoreCompileInputs.cache
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\obj\Debug\netcoreapp3.1\PoolsandThreads.AssemblyInfoInputs.cache
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\obj\Debug\netcoreapp3.1\PoolsandThreads.AssemblyInfo.cs
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\obj\Debug\netcoreapp3.1\PoolsandThreads.dll
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\obj\Debug\netcoreapp3.1\PoolsandThreads.pdb
+C:\Users\zaben\Desktop\5сем\СПП\2\PoolsandThreads\obj\Debug\netcoreapp3.1\PoolsandThreads.genruntimeconfig.cache
